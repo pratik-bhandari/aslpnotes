@@ -1,0 +1,7 @@
+---
+title: "Lecture 19"
+---
+
+# Lecture 19 Notes
+
+<iframe src="../notes/lecture19.pdf" width="100%" height="600px"></iframe>

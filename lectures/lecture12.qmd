@@ -1,0 +1,7 @@
+---
+title: "Lecture 12"
+---
+
+# Lecture 12 Notes
+
+<iframe src="../notes/lecture12.pdf" width="100%" height="600px"></iframe>

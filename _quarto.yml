@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Introduction to Linguistics for ASLPs"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Lectures"
+        contents:
+          - href: lectures/lecture1.qmd
+            text: Lecture 1
+          - href: lectures/lecture2.qmd
+            text: Lecture 2
+          - href: lectures/lecture3.qmd
+            text: Lecture 3
+          - href: lectures/lecture4.qmd
+            text: Lecture 4
+          - href: lectures/lecture5.qmd
+            text: Lecture 5
+          - href: lectures/lecture6.qmd
+            text: Lecture 6
+          - href: lectures/lecture7.qmd
+            text: Lecture 7
+          - href: lectures/lecture8.qmd
+            text: Lecture 8
+          - href: lectures/lecture9.qmd
+            text: Lecture 9
+          - href: lectures/lecture10.qmd
+            text: Lecture 10
+          - href: lectures/lecture11.qmd
+            text: Lecture 11
+          - href: lectures/lecture12.qmd
+            text: Lecture 12
+          - href: lectures/lecture13.qmd
+            text: Lecture 13
+          - href: lectures/lecture14.qmd
+            text: Lecture 14
+          - href: lectures/lecture15.qmd
+            text: Lecture 15
+          - href: lectures/lecture16.qmd
+            text: Lecture 16
+          - href: lectures/lecture17.qmd
+            text: Lecture 17
+          - href: lectures/lecture18.qmd
+            text: Lecture 18
+          - href: lectures/lecture19.qmd
+            text: Lecture 19
+
+format:
+  html:
+    theme: cosmo
+    toc: true
