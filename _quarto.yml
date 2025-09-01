@@ -52,6 +52,8 @@ website:
             text: Lecture 18
           - href: lectures/lecture19.qmd
             text: Lecture 19
+          - href: lectures/lecture20.qmd
+            text: Lecture 20
 
 format:
   html:
