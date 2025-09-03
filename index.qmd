@@ -9,3 +9,7 @@ Give me a call, drop an email or text if something is missing.
 Refer to the books I've provided to dive deeper.
 
 We can always discuss more.
+
+***
+
+Extra materials of your interests are available in the [here](lectures/extra.qmd).

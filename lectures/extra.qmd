@@ -1,0 +1,19 @@
+---
+title: "Additional Materials"
+---
+
+# How to avoid plagiarism?
+
+<iframe src="../notes/plagiarism.pdf" width="100%" height="600px"></iframe>
+
+***
+
+# Attention and perception in the deaf
+
+<iframe src="../notes/prasad2017.pdf" width="100%" height="600px"></iframe>
+
+***
+
+# Is there a critical period of language development?
+
+<iframe src="../notes/scovel2000.pdf" width="100%" height="600px"></iframe>
