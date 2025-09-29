@@ -17,3 +17,9 @@ title: "Additional Materials"
 # Is there a critical period of language development?
 
 <iframe src="../notes/scovel2000.pdf" width="100%" height="600px"></iframe>
+
+***
+
+# Get familiar with hyperacusis and misophonia.
+
+<iframe src="../notes/misophonia.pdf" width="100%" height="600px"></iframe>
