@@ -54,6 +54,18 @@ website:
             text: Lecture 19
           - href: lectures/lecture20.qmd
             text: Lecture 20
+          - href: lectures/lecture21.qmd
+            text: Lecture 21
+          - href: lectures/lecture22.qmd
+            text: Lecture 22
+          - href: lectures/lecture23.qmd
+            text: Lecture 23
+          - href: lectures/lecture24.qmd
+            text: Lecture 24
+          - href: lectures/lecture25.qmd
+            text: Lecture 25
+          - href: lectures/lecture26.qmd
+            text: Lecture 26
           - href: lectures/extra.qmd
             text: Additional
 
