@@ -2,6 +2,12 @@
 title: "Additional Materials"
 ---
 
+# Doing phonemic analysis.
+
+<iframe src="../notes/phonemic.pdf" width="100%" height="600px"></iframe>
+
+***
+
 # How to avoid plagiarism?
 
 <iframe src="../notes/plagiarism.pdf" width="100%" height="600px"></iframe>
@@ -23,3 +29,5 @@ title: "Additional Materials"
 # Get familiar with hyperacusis and misophonia.
 
 <iframe src="../notes/misophonia.pdf" width="100%" height="600px"></iframe>
+
+***
