@@ -1,15 +1,31 @@
 ---
-title: "Introduction to Linguistics for ASLPs"
+title: "MY COURSE CODE - MY COURSE NAME"
+format:
+  html:
+    include-before-body: helpers/remove-nav.html
+    include-after-body: helpers/remove-title.html
 ---
 
-This site contains most lecture materials and notes.  
+# 📑 Course Brief
 
-Give me a call, drop an email or text if something is missing.
+**Focus:** the focus of this course is to learn stuff
 
-Refer to the books I've provided to dive deeper.
+**How:** hands-on learning
 
-We can always discuss more.
+# 🎯 Learning Objectives
 
-***
+- You will discover how to do X
+- Distinguish X from **X**
+- Practice how to put things _in italic_
+- Discover how to highlight `code` inline
+- Proceed to learn stuff
 
-Extra materials of your interests are available in the [here](lectures/extra.qmd).
+
+-----------------
+
+**Select Academic Year/Term:**
+
+<a href="2023/index.qmd">
+    <button class="button-61">2022/23</button>
+</a>
+
