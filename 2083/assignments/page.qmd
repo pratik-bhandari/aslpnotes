@@ -1,0 +1,35 @@
+---
+title: "Assignments"
+author: ""
+---
+
+Unless otherwise stated, the deadline to submit a written assignment is one week.
+
+***
+
+## May 1, 2026
+
+Do you consider the parrots and the humans in the videos below to be communicating with each other?
+Have the parrots learnt to speak human language?
+
+:::{.panel-tabset}
+
+## Video 1
+
+{{< video https://www.youtube.com/watch?v=GfbPkXvXFUc >}}
+
+## Video 2
+
+{{< video https://www.youtube.com/watch?v=ewptevBIqNk >}}
+
+:::
+
+
+## April 24, 2026
+
+Which three theories do you think best explain the evolution of human language and how?
+
+
+## April 8, 2026
+
+Does language affect how you think? What is the relationship between language and thought?

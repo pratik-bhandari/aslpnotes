@@ -1,0 +1,69 @@
+---
+title: "Unit 1: Lecture 1–6"
+author: ""
+---
+
+In this section of Unit 1, you will learn what communication and language are. 
+You'll learn the theories of language evolution,
+appreciate the differences between human and animal communication,
+and the relationship between society and language. 
+
+## 👨‍🏫 Lecture Slides 
+
+<!-- Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen. -->
+<!-- Use your keypad to navigate the slides. -->
+**01**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture1.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+***
+**02**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture2.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+***
+**03**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture3.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+***
+**04**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture4.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+***
+**05**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture5.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+***
+**06**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture6.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+Next you will learn what linguistics and its branches are.
+
+<!-- ## ✍️ Coursework
+
+🚧 Come back after the lecture to read the coursework instructions for the week 🚧-->
+
+
+## 📚 Recommended Reading
+
+- Check the end of slides for the list of references cited in the lecture.
+
+## 📟 Communication
+
+- You have my email and phone number already. Feel free to mail or text at any time.

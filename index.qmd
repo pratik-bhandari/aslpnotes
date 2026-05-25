@@ -1,0 +1,26 @@
+---
+title: "B1.4 –– Introduction to Linguistics"
+format:
+  html:
+    include-before-body: helpers/remove-nav.html
+    include-after-body: helpers/remove-title.html
+---
+
+<!-- # 📑 Course Brief -->
+
+This course will give you a brief tour of linguistics.
+
+You will learn how language is a window to the mind.
+We will discuss evolution of language, animal and human communication, and learn about sounds of language, grammar, how meanings are formed and represented in the mind among many other things. \
+As speech pathology and audiology undergrads, you will learn to connect these ideas from linguistics to the disorders of speech, language, and hearing. 
+
+You will read textbooks as well as scientific papers from academic journals assigned before and after each lecture.
+
+-----------------
+
+**Select Academic Year/Term:**
+
+<a href="2083/index.qmd">
+    <button class="button-61">2083</button>
+</a>
+
