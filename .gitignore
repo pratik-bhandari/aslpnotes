@@ -53,3 +53,4 @@ rsconnect/
 **/*.py
 
 pdfjs-5.4.149-dist.zip
+**/*.quarto_ipynb

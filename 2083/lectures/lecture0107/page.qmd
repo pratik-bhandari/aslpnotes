@@ -53,6 +53,13 @@ and the relationship between society and language.
 <iframe src="lecture6.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
+***
+**07**
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="lecture7.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
 Next you will learn what linguistics and its branches are.
 
 <!-- ## ✍️ Coursework

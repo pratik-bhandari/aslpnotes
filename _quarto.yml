@@ -6,7 +6,7 @@ project:
     - "index.qmd"
     - "2083/*.qmd"
     - "2083/lectures/*.qmd"
-    - "2083/lectures/lecture0106/*.qmd"
+    - "2083/lectures/lecture0107/*.qmd"
     - "2083/syllabus/*.qmd"
     - "2083/assignments/page.qmd"
 
@@ -31,8 +31,8 @@ website:
         href: 2083/syllabus/syllabus.qmd
       - section: "👨‍🏫 Lectures"
         contents:
-         - text: Lecture1-6
-           href: 2083/lectures/lecture0106/page.qmd
+         - text: Lecture1-7
+           href: 2083/lectures/lecture0107/page.qmd
       - text: "✍️ Assignments"
         href: 2083/assignments/page.qmd
       # - href: 2023/communication.qmd
