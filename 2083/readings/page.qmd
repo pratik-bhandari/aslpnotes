@@ -1,0 +1,37 @@
+---
+title: "Extra Readings"
+author: ""
+---
+
+Here you will find papers relevant to the topics we discussed in the class. 
+
+***
+
+## May 25, 2026
+
+At what age do children develop theory of mind?
+
+:::{.panel-tabset}
+
+## Paper 1
+
+This is a seminal paper which set the experimental paradigm on examining theory of mind of young children. 
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children's understanding of deception. Cognition, 13(1), 103-128.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="beliefs1983.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+## Paper 2
+
+Developed on the first paper, this paper examines the theory of mind of children with autism.
+
+Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a “theory of mind”?. Cognition, 21(1), 37-46.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="autism1985.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+:::
+

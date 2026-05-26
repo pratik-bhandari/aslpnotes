@@ -42,7 +42,7 @@
   {
     "objectID": "2083/lectures/lecture0107/page.html",
     "href": "2083/lectures/lecture0107/page.html",
-    "title": "Unit 1: Lecture 1–6",
+    "title": "Unit 1: Lecture 1–7",
     "section": "",
     "text": "In this section of Unit 1, you will learn what communication and language are. You’ll learn the theories of language evolution, appreciate the differences between human and animal communication, and the relationship between society and language.",
     "crumbs": [
@@ -53,9 +53,9 @@
   {
     "objectID": "2083/lectures/lecture0107/page.html#lecture-slides",
     "href": "2083/lectures/lecture0107/page.html#lecture-slides",
-    "title": "Unit 1: Lecture 1–6",
+    "title": "Unit 1: Lecture 1–7",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\n\n\n01\n\n\n\n\n\n02\n\n\n\n\n\n03\n\n\n\n\n\n04\n\n\n\n\n\n05\n\n\n\n\n\n06\n\n\n\n\n\n07\n\n\n\n\nNext you will learn what linguistics and its branches are.",
+    "text": "👨‍🏫 Lecture Slides\n\n\n\n01020304050607\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNext you will learn what linguistics and its branches are.",
     "crumbs": [
       "👨‍🏫 Lectures",
       "Lecture1-7"
@@ -64,7 +64,7 @@
   {
     "objectID": "2083/lectures/lecture0107/page.html#recommended-reading",
     "href": "2083/lectures/lecture0107/page.html#recommended-reading",
-    "title": "Unit 1: Lecture 1–6",
+    "title": "Unit 1: Lecture 1–7",
     "section": "📚 Recommended Reading",
     "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
     "crumbs": [
@@ -75,7 +75,7 @@
   {
     "objectID": "2083/lectures/lecture0107/page.html#communication",
     "href": "2083/lectures/lecture0107/page.html#communication",
-    "title": "Unit 1: Lecture 1–6",
+    "title": "Unit 1: Lecture 1–7",
     "section": "📟 Communication",
     "text": "📟 Communication\n\nYou have my email and phone number already. Feel free to mail or text at any time.",
     "crumbs": [
@@ -113,5 +113,25 @@
     "title": "🗓️ Week 01 Introduction",
     "section": "Teaching Assistants",
     "text": "Teaching Assistants\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, OUN  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, UOS  MSc in Octopus Transportation 📧"
+  },
+  {
+    "objectID": "2083/readings/page.html",
+    "href": "2083/readings/page.html",
+    "title": "Extra Readings",
+    "section": "",
+    "text": "Here you will find papers relevant to the topics we discussed in the class.",
+    "crumbs": [
+      "📚 Readings"
+    ]
+  },
+  {
+    "objectID": "2083/readings/page.html#may-25-2026",
+    "href": "2083/readings/page.html#may-25-2026",
+    "title": "Extra Readings",
+    "section": "May 25, 2026",
+    "text": "May 25, 2026\nAt what age do children develop theory of mind?\n\nPaper 1Paper 2\n\n\nThis is a seminal paper which set the experimental paradigm on examining theory of mind of young children.\nWimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children’s understanding of deception. Cognition, 13(1), 103-128.\n\n\n\n\n\n\nDeveloped on the first paper, this paper examines the theory of mind of children with autism.\nBaron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a “theory of mind”?. Cognition, 21(1), 37-46.",
+    "crumbs": [
+      "📚 Readings"
+    ]
   }
 ]

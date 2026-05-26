@@ -9,6 +9,7 @@ project:
     - "2083/lectures/lecture0107/*.qmd"
     - "2083/syllabus/*.qmd"
     - "2083/assignments/page.qmd"
+    - "2083/readings/page.qmd"
 
 website:
   title: "B1.4 –– Introduction to Linguistics"
@@ -33,6 +34,8 @@ website:
         contents:
          - text: Lecture1-7
            href: 2083/lectures/lecture0107/page.qmd
+      - text: "📚 Readings"
+        href: 2083/readings/page.qmd
       - text: "✍️ Assignments"
         href: 2083/assignments/page.qmd
       # - href: 2023/communication.qmd
